@@ -105,7 +105,7 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "@xazab/x11-hash-js": "^1.0.2",
+    "@dashevo/x11-hash-js": "^1.0.2",
     "@types/node": "^12.12.47",
     "bitset": "^5.1.1",
     "bloom-filter": "^0.2.0",
