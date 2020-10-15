@@ -3,10 +3,10 @@
 
 var expect = require('chai').expect;
 var sinon = require('sinon');
-var DashcoreLib = require('../../..');
+var XazabcoreLib = require('../../..');
 var proUpRegTxFixture = require('../../fixtures/payload/proupregtxpayload');
 
-var Payload = DashcoreLib.Transaction.Payload;
+var Payload = XazabcoreLib.Transaction.Payload;
 var ProUpRegTxPayload = Payload.ProUpRegTxPayload;
 
 describe('ProUpRegTxPayload', function () {

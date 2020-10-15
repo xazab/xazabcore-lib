@@ -34,6 +34,6 @@ deploy:
     skip_cleanup: true
     script: npm publish
     on:
-      repo: dashevo/dashcore-lib
+      repo: xazab/xazabcore-lib
       branch: master
       node_js: '12'

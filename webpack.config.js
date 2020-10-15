@@ -15,16 +15,16 @@ const commonJSConfig = {
 const rawConfig = Object.assign({}, commonJSConfig, {
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'dashcore-lib.js',
-    library: 'dashcore',
+    filename: 'xazabcore-lib.js',
+    library: 'xazabcore',
     libraryTarget: 'umd',
   }
 })
 const uglifiedConfig = Object.assign({}, commonJSConfig, {
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'dashcore-lib.min.js',
-    library: 'dashcore',
+    filename: 'xazabcore-lib.min.js',
+    library: 'xazabcore',
     libraryTarget: 'umd',
   },
   optimization: {

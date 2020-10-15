@@ -1,4 +1,4 @@
-# Dashcore examples
+# Xazabcore examples
 
 
 ## Create and Save a Private Key

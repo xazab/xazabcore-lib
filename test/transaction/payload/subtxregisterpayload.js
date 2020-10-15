@@ -3,13 +3,13 @@
 
 var expect = require('chai').expect;
 
-var DashcoreLib = require('../../../index');
+var XazabcoreLib = require('../../../index');
 
-var PrivateKey = DashcoreLib.PrivateKey;
-var BufferUtil = DashcoreLib.util.buffer;
-var Payload = DashcoreLib.Transaction.Payload;
+var PrivateKey = XazabcoreLib.PrivateKey;
+var BufferUtil = XazabcoreLib.util.buffer;
+var Payload = XazabcoreLib.Transaction.Payload;
 var SubTxRegisterPayload = Payload.SubTxRegisterPayload;
-var isHexString = DashcoreLib.util.js.isHexaString;
+var isHexString = XazabcoreLib.util.js.isHexaString;
 
 var CORRECT_SIGNATURE_SIZE = Payload.constants.COMPACT_SIGNATURE_SIZE;
 var privateKey = 'cSBnVM4xvxarwGQuAfQFwqDg9k5tErHUHzgWsEfD4zdwUasvqRVY';

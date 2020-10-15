@@ -58,7 +58,7 @@ import * as _TransactionSignature from './typings/transaction/TransactionSignatu
 import * as _UnspentOutput from './typings/transaction/UnspentOutput';
 
 
-declare module "@dashevo/dashcore-lib"  {
+declare module "@xazab/xazabcore-lib"  {
     /**
      * PDKBF2
      * Credit to: https://github.com/stayradiated/pbkdf2-sha512
