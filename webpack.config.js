@@ -1,26 +1,12 @@
-/* eslint-disable */
-// TODO: Remove previous line and work through linting issues at next edit
-
 const path = require('path');
 const TerserPlugin = require('terser-webpack-plugin');
 
-const commonJSConfig = {
+module.exports = {
   entry: ['./index.js'],
-  module: {
-    rules: [],
+  node: {
+    fs: 'empty',
   },
-  target: 'web'
-};
-
-const rawConfig = Object.assign({}, commonJSConfig, {
-  output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'xazabcore-lib.js',
-    library: 'xazabcore',
-    libraryTarget: 'umd',
-  }
-})
-const uglifiedConfig = Object.assign({}, commonJSConfig, {
+  target: 'web',
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'xazabcore-lib.min.js',
@@ -31,6 +17,4 @@ const uglifiedConfig = Object.assign({}, commonJSConfig, {
     minimize: true,
     minimizer: [new TerserPlugin()],
   },
-})
-
-module.exports = [rawConfig, uglifiedConfig];
+};

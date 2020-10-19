@@ -1,14 +1,14 @@
 {
   "name": "@xazab/xazabcore-lib",
-  "version": "0.18.12",
+  "version": "0.19.2",
   "description": "A pure and powerful JavaScript Xazab library.",
-  "author": "Xazab Core Group, Inc. <dev@xazab.org>",
+  "author": "Xazab Core Group, Inc. <dev@xazab.xyz>",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "test": "npm run build && npm run test:node && npm run test:browser",
-    "test:node": "mocha $NODE_DEBUG_OPTION --no-timeouts --recursive",
+    "test": "npm run test:node && npm run test:browser",
+    "test:node": "mocha $NODE_DEBUG_OPTION --no-timeout --recursive",
     "test:browser": "karma start ./karma.conf.js --single-run",
     "coverage": "nyc mocha --recursive",
     "build": "webpack --display-error-details"
