@@ -56,4 +56,66 @@ describe('QuorumEntry', function () {
       expect(entryCommitmentHash).to.be.deep.equal(Buffer.from(commitmentHash, 'hex'));
     });
   });
+  describe('quorum members', function () {
+    it('Should generate the correct selectionModifier', function () {
+      var entry = new QuorumEntry(quorumEntryJSON);
+      var res = entry.getSelectionModifier();
+      expect(res).to.be.deep.equal(Buffer.from(selectionModifier, 'hex'));
+    });
+    it('Should get the correct list of quorum members', function () {
+      var sortedMemberHashes = SMNListFixture.getSortedMemberProRegTxHashes();
+      var mnList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
+      mnList.applyDiff(SMNListFixture.getSecondDiff());
+      mnList.applyDiff(SMNListFixture.getQuorumHashDiff());
+      var entry = new QuorumEntry(quorumEntryJSON);
+      var members = entry.getAllQuorumMembers(mnList);
+      var calculatedMemberHashes = [];
+      members.forEach(function (member) {
+        calculatedMemberHashes.push(member.proRegTxHash);
+      });
+      expect(calculatedMemberHashes).to.be.deep.equal(sortedMemberHashes);
+    });
+  });
+  describe('quorum signatures', function () {
+    it('Should verify a threshold signature', function () {
+      var entry = new QuorumEntry(quorumEntryJSON);
+      return entry.isValidQuorumSig()
+        .then((res) => {
+          expect(res).to.be.true;
+        });
+    });
+    it('Should verify an aggregated member signature', function () {
+      var mnList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
+      mnList.applyDiff(SMNListFixture.getSecondDiff());
+      mnList.applyDiff(SMNListFixture.getQuorumHashDiff());
+      var entry = new QuorumEntry(quorumEntryJSON);
+      return entry.isValidMemberSig(mnList)
+        .then((res) => {
+          expect(res).to.be.true;
+        });
+    });
+    it('Should verify an aggregated member signature with not all members having signed', function () {
+      var mnList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
+      mnList.applyDiff(SMNListFixture.getSecondDiff());
+      mnList.applyDiff(SMNListFixture.getQuorumHashDiff2());
+      var entry = new QuorumEntry(quorumEntryWithNonMaxSignersCount);
+      return entry.isValidMemberSig(mnList)
+        .then((res) => {
+          expect(res).to.be.true;
+        });
+    });
+    it('Should verify both signatures of the quorum and set isVerified to true', function () {
+      this.timeout(3000);
+      var mnList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
+      mnList.applyDiff(SMNListFixture.getSecondDiff());
+      mnList.applyDiff(SMNListFixture.getQuorumHashDiff());
+      var entry = new QuorumEntry(quorumEntryJSON);
+      expect(entry.isVerified).to.be.false;
+      return entry.verify(mnList)
+        .then((res) => {
+          expect(res).to.be.true;
+          expect(entry.isVerified).to.be.true;
+        });
+    });
+  });
 });
