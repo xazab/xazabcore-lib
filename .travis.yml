@@ -35,5 +35,5 @@ deploy:
     script: npm publish
     on:
       repo: xazab/xazabcore-lib
-      branch: master
-      node_js: '12'
+      tags: true
+      node_js: '14'
