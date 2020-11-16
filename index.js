@@ -69,6 +69,9 @@ bitcore.Message = require('./lib/message');
 bitcore.Mnemonic = require('./lib/mnemonic');
 bitcore.BloomFilter = require('./lib/bloomfilter');
 
+bitcore.ChainLock = require('./lib/chainlock/chainlock');
+bitcore.InstantLock = require('./lib/instantlock/instantlock');
+
 // dependencies, subject to change
 bitcore.deps = {};
 bitcore.deps.bnjs = require('bn.js');
