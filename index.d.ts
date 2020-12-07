@@ -10,6 +10,7 @@ import * as _PrivateKey from './typings/PrivateKey';
 import * as _PublicKey from './typings/PublicKey';
 import * as _Unit from './typings/Unit';
 import * as _URI from './typings/URI';
+import * as _InstantLock from './typings/instantlock/instantlock';
 
 import * as _Block from './typings/block/Block';
 import * as _BlockHeader from './typings/block/BlockHeader';
@@ -26,6 +27,7 @@ import * as _Hash from './typings/crypto/Hash';
 
 import * as _SimplifiedMNListDiff from './typings/deterministicmnlist/SimplifiedMNListDiff';
 import * as _SimplifiedMNListEntry from './typings/deterministicmnlist/SimplifiedMNListEntry';
+import * as _SimplifiedMNListStore from './typings/deterministicmnlist/SimplifiedMNListStore';
 
 import * as _GovObject from './typings/govobject/GovObject';
 import * as _Proposal from './typings/govobject/Proposal';
@@ -333,10 +335,16 @@ declare module "@xazab/xazabcore-lib"  {
 
     export import SimplifiedMNListDiff = _SimplifiedMNListDiff.SimplifiedMNListDiff;
     export import SimplifiedMNListEntry = _SimplifiedMNListEntry.SimplifiedMNListEntry;
+    export import SimplifiedMNListStore = _SimplifiedMNListStore.SimplifiedMNListStore;
 
     export import GovObject = _GovObject.GovObject;
     export import Proposal = _Proposal.Proposal;
     export import Trigger = _Trigger.Trigger;
+
+    export import ChainLock = _ChainLock.ChainLock;
+    export import QuorumEntry = _QuorumEntry.QuorumEntry;
+    export import SimplifiedMNList = _SimplifiedMNList.SimplifiedMNList;
+    export import InstantLock = _InstantLock.InstantLock;
 
     export import Mnemonic = _Mnemonic.Mnemonic;
 
