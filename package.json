@@ -1,6 +1,6 @@
 {
   "name": "@xazab/xazabcore-lib",
-  "version": "0.19.14",
+  "version": "0.19.15",
   "description": "A pure and powerful JavaScript Xazab library.",
   "author": "Xazab Core Group, Inc. <dev@xazab.xyz>",
   "main": "index.js",
