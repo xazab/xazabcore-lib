@@ -38,6 +38,7 @@ var quorumEntryHash = "082f5e29385f81704ef63c886aa20c2f8d69efd87d3937d6769285e2e
 var commitmentHash = "381fbd47cd5ab01a48da6a20632b1cba9f4d3018d22c7131d99cd7b2a06295df";
 
 describe('QuorumEntry', function () {
+  this.timeout(10000);
   describe('fromBuffer', function () {
     it('Should be able to parse data from a buffer when ip address is present', function () {
       var entry = QuorumEntry.fromBuffer(Buffer.from(quorumEntryHex, 'hex'));
