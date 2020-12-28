@@ -3,16 +3,18 @@ const constants = require('../../lib/constants');
 const SimplifiedMNListStore = require('../../lib/deterministicmnlist/SimplifiedMNListStore');
 const SMNListFixture = require('../fixtures/mnList');
 const Transaction = require('../../lib/transaction');
+const getSMLStoreJSONFixture = require('../fixtures/getSMLStoreJSON');
+const sml4848Json = require('../fixtures/smlstore4848_4864.json');
 
 let smlDiffArray;
-
-
+let sml4848;
 
 describe('SimplifiedMNListStore', function () {
   this.timeout(5000);
 
   beforeEach(()=>{
     smlDiffArray = SMNListFixture.getChainlockDiffArray();
+    sml4848 = SimplifiedMNListStore.fromJSON(sml4848Json);
   });
 
   describe('constructor', function () {
@@ -101,7 +103,36 @@ describe('SimplifiedMNListStore', function () {
       const height = 11111;
       expect(function () {
         smlStore.getSMLbyHeight(height);
-      }).to.throw('unable to construct SML at this height');
+      }).to.throw('Unable to reconstruct SML at height 11111');
+    });
+  });
+  describe('.fromJSON', function () {
+    it('should restore an SML store from JSON', function () {
+      const smlStoreJSON = getSMLStoreJSONFixture();
+      const smlStore = SimplifiedMNListStore.fromJSON(getSMLStoreJSONFixture());
+      const restoredSmlStoreJson = JSON.parse(JSON.stringify(smlStore));
+
+      expect(restoredSmlStoreJson).to.be.deep.equal(smlStoreJSON);
+    });
+  });
+  describe('.addDiff', function () {
+    it('should update baseHeight if the base diff was updated', function () {
+      const smlStore = SimplifiedMNListStore.fromJSON(getSMLStoreJSONFixture());
+
+      expect(smlStore.baseHeight).to.be.equal(4838);
+
+      const diffAtHeight4854 = sml4848.diffStore[4].diff;
+      const diffAtHeight4855 = sml4848.diffStore[5].diff;
+
+      smlStore.addDiff(diffAtHeight4854);
+
+      expect(smlStore.baseHeight).to.be.equal(4839);
+      expect(smlStore.tipHeight).to.be.equal(smlStore.baseHeight + 15);
+
+      smlStore.addDiff(diffAtHeight4855);
+
+      expect(smlStore.baseHeight).to.be.equal(4840);
+      expect(smlStore.tipHeight).to.be.equal(smlStore.baseHeight + 15);
     });
   });
 });
