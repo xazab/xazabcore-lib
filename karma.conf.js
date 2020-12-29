@@ -1,4 +1,3 @@
-
 module.exports = (config) => {
   config.set({
     frameworks: ['mocha', 'chai'],

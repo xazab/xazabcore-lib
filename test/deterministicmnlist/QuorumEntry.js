@@ -1,9 +1,10 @@
 /* eslint-disable */
 // TODO: Remove previous line and work through linting issues at next edit
 
-var QuorumEntry = require('../../lib/deterministicmnlist/QuorumEntry');
 var expect = require('chai').expect;
-var merkleUtils = require('../../lib//util/merkletree');
+var QuorumEntry = require('../../lib/deterministicmnlist/QuorumEntry');
+var SimplifiedMNList = require('../../lib/deterministicmnlist/SimplifiedMNList');
+var SMNListFixture = require('../fixtures/mnList');
 
 var quorumEntryJSON = {
   "version": 1,
@@ -33,14 +34,15 @@ var quorumEntryWithNonMaxSignersCount = {
   "membersSig": "98df7d8648e0810cf564bab77175f5007f7714f9e43bde627f1a54b1851428750231b4634329b097eabefdf7c1f9497e07dddbab3fc7903ad57add36856a13dae06ec7ddea9bfc4c68133be4c85ab8354682de7be3d994f336a49d71c37122b3"
 };
 
-var quorumEntryHex = "010002f2ef5ab062b348bfcf9f5be4c07b817e176a5726fa9b799ad67f690700000000fd9001bf7fffaffedffef77fef7ffffffcbdffaffffffffffffdfffff7f7f7fff7ffefbfffffdff1fdbf7feffcffbb1f0000000000fd9001bf7fffaffedffef77fef7ffffffcbfffaffffffffffffdfffff7f7f7fff7ffefbfffffdff1fdbf7feffcffbb1f000000000003a3fbbe99d80a9be8fc59fd4fe43dfbeba9119b688e97493664716cdf15ae47fad70fea7cb93f20fba10d689f9e3c02a2263a396ef747508bf75a2dd7f891abb0fc4fb58b6773d131eb0403126bdebe9944c544e03a478b401b65cabbb24338872613f7d58ff13ab038ab86418ec70ef1734ff43e965ccb83e02da83b10d44c0f23c630752cfb29b402149a1fc3fad0760e6341a4a1031efad2983c8637d2a461e9bcaf935b7a4dfa225ed2f7771c7592eda5c13583577719bea9337b4b9b6286ac11a072de0955b0dc5a012280bb557a53f9643cee7730dabe2d3a4a19042813ef5d39ae92d0015554954011c1e12bc688d4d7672ac33c4001e0dedbfe5d0316f2ad23206d478964ca62d75f50e4d0";
-var quorumEntryHash = "082f5e29385f81704ef63c886aa20c2f8d69efd87d3937d6769285e2ead9ea0f";
-var commitmentHash = "381fbd47cd5ab01a48da6a20632b1cba9f4d3018d22c7131d99cd7b2a06295df";
+var quorumEntryHex = "01000160b156bf6648f8616baf0ae55545d9ba1fa5279ace4184a805c3c1000000000032ffffffffffff0332ffffffffffff038fe19adca131e5a5dbbfb5ae4022abb6838edc3ac13820affe7086ffe7e4d99b9374a18bd558b878f726fd9c5299b5c3f3daa7fe2e079a76f17ec5d9c56cf9786688e8b32d716cf640f7bbabc333ba971527b12834578efb34480234293215cdaaba66ae31804ce57c8cf34ff0cf2b995a974d24c5f66bfe28ae7cd54c945fc8126465f4cf5a32e02d903be19d00e473fb93eaae9c28d9c80097e3410dbdd6e8dd223fde1a3be30a1fda688e0c9a087c82ceec940dd23b3c50ace0645759d4cd7ea7f6153813018d265245e81bf7673b8c2d664e94f5f506655654ee39d2689a007d98513d274aae8dc31ebb0138756a768005774cc718ba55e18e9b442dbb638d54c7ff256e0d997e3544581497f5c0";
+var quorumEntryHash = "9fc6855eae595e1cdafe7e80ddd1473d09ffa0958ef2c053c8c5383c39a65a83";
+var commitmentHash = "bc8c5dc5975ce6c4988ce8506ce6a4ec59b3232a8715aa2ffaeeebab8d71b533";
+var selectionModifier = "c6a87d306a29918722342ddd612262356097b50b3d67476f073c33947aee32f0";
 
 describe('QuorumEntry', function () {
   this.timeout(10000);
   describe('fromBuffer', function () {
-    it('Should be able to parse data from a buffer when ip address is present', function () {
+    it('Should be able to parse data from a buffer', function () {
       var entry = QuorumEntry.fromBuffer(Buffer.from(quorumEntryHex, 'hex'));
       var entryJSON = entry.toObject();
       expect(entryJSON).to.be.deep.equal(quorumEntryJSON)

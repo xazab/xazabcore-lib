@@ -5,7 +5,7 @@
 
 var should = require('chai').should();
 var sinon = require('sinon');
-var bitcore = require('../');
+var bitcore = require('../index.js');
 
 describe('#versionGuard', function() {
   it('global._xazabcore should be defined', function() {

@@ -6,7 +6,7 @@ We're working hard to make *xazabcore-lib* the most powerful JavaScript library 
 
 If there are any questions, etc., please feel to ask in one of the community channels:
 
-- https://www.xazab.org/forum (Support Forum)
+- https://xazab.xyz/forum (Support Forum)
 
 ## Quick Checklist
 

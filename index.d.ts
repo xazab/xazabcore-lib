@@ -20,11 +20,15 @@ import * as _PartialMerkleTree from './typings/block/PartialMerkleTree';
 import * as _BufferWriter from './typings/buffer/BufferWriter';
 import * as _BufferReader from './typings/buffer/BufferReader';
 
+import * as _ChainLock from './typings/chainlock/ChainLock';
+
 import * as _BN from './typings/crypto/BN';
 import * as _Point from './typings/crypto/Point';
 import * as _Signature from './typings/crypto/Signature';
 import * as _Hash from './typings/crypto/Hash';
 
+import * as _QuorumEntry from './typings/deterministicmnlist/QuorumEntry';
+import * as _SimplifiedMNList from './typings/deterministicmnlist/SimplifiedMNList';
 import * as _SimplifiedMNListDiff from './typings/deterministicmnlist/SimplifiedMNListDiff';
 import * as _SimplifiedMNListEntry from './typings/deterministicmnlist/SimplifiedMNListEntry';
 import * as _SimplifiedMNListStore from './typings/deterministicmnlist/SimplifiedMNListStore';

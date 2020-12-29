@@ -23,9 +23,9 @@
       ]
     },
     "dnsSeeds": [
-      "testnet-seed.darkcoin.io",
-      "testnet-seed.dashdot.io",
-      "test.dnsseed.masternode.io"
+      "testnet-seed.xazab.xyz",
+      "testnet-seed2.xazab.xyz",
+      "test.dnsseed3.xazab.xyz"
     ]
   },
   "options": {
@@ -103,9 +103,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -180,9 +180,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -257,9 +257,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -334,9 +334,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -410,9 +410,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -486,9 +486,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -562,9 +562,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -640,9 +640,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -716,9 +716,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -792,9 +792,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -868,9 +868,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -946,9 +946,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -1022,9 +1022,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -1098,9 +1098,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -1174,9 +1174,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -1217,9 +1217,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1254,9 +1254,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1291,9 +1291,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1328,9 +1328,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1365,9 +1365,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1402,9 +1402,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1439,9 +1439,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1476,9 +1476,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1513,9 +1513,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1550,9 +1550,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1587,9 +1587,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1624,9 +1624,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1661,9 +1661,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1698,9 +1698,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1735,9 +1735,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1772,9 +1772,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1809,9 +1809,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1846,9 +1846,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1883,9 +1883,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1920,9 +1920,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1957,9 +1957,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -1994,9 +1994,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2031,9 +2031,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2068,9 +2068,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2105,9 +2105,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2142,9 +2142,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2179,9 +2179,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2216,9 +2216,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2253,9 +2253,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2290,9 +2290,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2327,9 +2327,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2364,9 +2364,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2401,9 +2401,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2438,9 +2438,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2475,9 +2475,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2512,9 +2512,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2549,9 +2549,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2586,9 +2586,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2623,9 +2623,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2660,9 +2660,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2697,9 +2697,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -2734,9 +2734,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -3180,9 +3180,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3217,9 +3217,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3254,9 +3254,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3291,9 +3291,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3328,9 +3328,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3365,9 +3365,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3402,9 +3402,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3439,9 +3439,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3476,9 +3476,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3513,9 +3513,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3550,9 +3550,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3587,9 +3587,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3624,9 +3624,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3661,9 +3661,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3698,9 +3698,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3735,9 +3735,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3772,9 +3772,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3809,9 +3809,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3846,9 +3846,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3883,9 +3883,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3920,9 +3920,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3957,9 +3957,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -3994,9 +3994,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4031,9 +4031,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4068,9 +4068,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4105,9 +4105,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4142,9 +4142,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4179,9 +4179,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4216,9 +4216,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4253,9 +4253,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4290,9 +4290,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4327,9 +4327,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4364,9 +4364,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4401,9 +4401,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4438,9 +4438,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4475,9 +4475,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4512,9 +4512,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4549,9 +4549,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4586,9 +4586,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4623,9 +4623,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4660,9 +4660,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4697,9 +4697,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -4767,9 +4767,9 @@
         ]
       },
       "dnsSeeds": [
-        "testnet-seed.darkcoin.io",
-        "testnet-seed.dashdot.io",
-        "test.dnsseed.masternode.io"
+        "testnet-seed.xazab.xyz",
+        "testnet-seed2.xazab.xyz",
+        "test.dnsseed3.xazab.xyz"
       ]
     },
     "merkleRootQuorums": "dafb9dd3054704d4a4a55835664698b33071599ed278ee053a9bbcc6dac1cebe",
@@ -4810,9 +4810,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4847,9 +4847,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4884,9 +4884,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4921,9 +4921,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4958,9 +4958,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -4995,9 +4995,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5032,9 +5032,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5069,9 +5069,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5106,9 +5106,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5143,9 +5143,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5180,9 +5180,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5217,9 +5217,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5254,9 +5254,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5291,9 +5291,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5328,9 +5328,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5365,9 +5365,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5402,9 +5402,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5439,9 +5439,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5476,9 +5476,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5513,9 +5513,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5550,9 +5550,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5587,9 +5587,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5624,9 +5624,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5661,9 +5661,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5698,9 +5698,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5735,9 +5735,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5772,9 +5772,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5809,9 +5809,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5846,9 +5846,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5883,9 +5883,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5920,9 +5920,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5957,9 +5957,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -5994,9 +5994,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6031,9 +6031,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6068,9 +6068,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6105,9 +6105,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6142,9 +6142,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6179,9 +6179,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6216,9 +6216,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6253,9 +6253,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6290,9 +6290,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6327,9 +6327,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -6773,9 +6773,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6810,9 +6810,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6847,9 +6847,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6884,9 +6884,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6921,9 +6921,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6958,9 +6958,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -6995,9 +6995,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7032,9 +7032,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7069,9 +7069,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7106,9 +7106,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7143,9 +7143,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7180,9 +7180,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7217,9 +7217,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7254,9 +7254,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7291,9 +7291,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7328,9 +7328,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7365,9 +7365,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7402,9 +7402,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7439,9 +7439,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7476,9 +7476,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7513,9 +7513,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7550,9 +7550,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7587,9 +7587,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7624,9 +7624,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7661,9 +7661,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7698,9 +7698,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7735,9 +7735,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7772,9 +7772,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7809,9 +7809,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7846,9 +7846,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7883,9 +7883,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7920,9 +7920,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7957,9 +7957,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -7994,9 +7994,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8031,9 +8031,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8068,9 +8068,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8105,9 +8105,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8142,9 +8142,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8179,9 +8179,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8216,9 +8216,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8253,9 +8253,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       },
@@ -8290,9 +8290,9 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "testnet-seed.xazab.xyz",
+            "testnet-seed2.xazab.xyz",
+            "test.dnsseed3.xazab.xyz"
           ]
         }
       }
@@ -8359,9 +8359,9 @@
         ]
       },
       "dnsSeeds": [
-        "testnet-seed.darkcoin.io",
-        "testnet-seed.dashdot.io",
-        "test.dnsseed.masternode.io"
+        "testnet-seed.xazab.xyz",
+        "testnet-seed2.xazab.xyz",
+        "test.dnsseed3.xazab.xyz"
       ]
     },
     "merkleRootQuorums": "dafb9dd3054704d4a4a55835664698b33071599ed278ee053a9bbcc6dac1cebe",

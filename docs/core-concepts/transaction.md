@@ -3,7 +3,7 @@ Xazabcore provides a very simple API for creating transactions. We expect this A
 
 A Transaction contains a set of inputs and a set of outputs. Each input contains a reference to another transaction's output, and a signature that allows the value referenced in that output to be used in this transaction.
 
-Note also that an output can be used only once. That's why there's a concept of "change address" in the Xazab ecosystem: if an output of 10 XAZAB is available for me to spend, but I only need to transmit 1 XAZAB, I'll create a transaction with two outputs, one with 1 XAZAB that I want to spend, and the other with 9 XAZAB to a change address, so I can spend this 9 XAZAB with another private key that I own.
+Note also that an output can be used only once. That's why there's a concept of "change address" in the Xazab ecosystem: if an output of 10 Xazab is available for me to spend, but I only need to transmit 1 XAZAB, I'll create a transaction with two outputs, one with 1 XAZAB that I want to spend, and the other with 9 XAZAB to a change address, so I can spend this 9 XAZAB with another private key that I own.
 
 So, in order to transmit a valid transaction, you must know what other transactions on the network store outputs that have not been spent and that are available for you to spend (meaning that you have the set of keys that can validate you own those funds). The unspent outputs are usually referred to as "utxo"s.
 
@@ -75,7 +75,7 @@ transaction.applySignature(receivedSig);
 ```
 
 ## Adding inputs
-Transaction inputs are instances of either [Input](lib/transaction/input) or its subclasses. `Input` has some abstract methods, as there is no actual concept of a "signed input" in the Xazab scripting system (just valid signatures for <tt>OP_CHECKSIG</tt> and similar opcodes). They are stored in the `input` property of `Transaction` instances.
+Transaction inputs are instances of either [Input](../../lib/transaction/input) or its subclasses. `Input` has some abstract methods, as there is no actual concept of a "signed input" in the Xazab scripting system (just valid signatures for <tt>OP_CHECKSIG</tt> and similar opcodes). They are stored in the `input` property of `Transaction` instances.
 
 Xazabcore contains two implementations of `Input`, one for spending _Pay to Public Key Hash_ outputs (called `PublicKeyHashInput`) and another to spend _Pay to Script Hash_ outputs for which the redeem script is a Multisig script (called `MultisigScriptHashInput`).
 
@@ -174,12 +174,6 @@ var transaction = new Transaction()
 console.log(transaction.getLockTime());
 // output similar to: Sun Nov 30 2025 00:00:00 GMT-0300 (ART)
 ```
-
-## Simple Transaction
-
-Since v0.13, simple transactions (having no more than 4 inputs), are entitled to an auto Instant Send upgrade (if mempool size is less than 10% full). 
-
-A method `isSimpleTransaction()` will simplify that verification for you.  
 
 ## Upcoming changes
 We're debating an API for Merge Avoidance, CoinJoin, Smart contracts, CoinSwap, and Stealth Addresses. We're expecting to have all of them by some time in 2015. Payment channel creation is available in the [xazabcore-channel](https://github.com/xazab/xazabcore-channel) module.

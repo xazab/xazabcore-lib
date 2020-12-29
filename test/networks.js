@@ -5,7 +5,7 @@
 
 var expect = require('chai').expect;
 var should = require('chai').should();
-var bitcore = require('..');
+var bitcore = require('../index.js');
 var networks = bitcore.Networks;
 
 describe('Networks', function() {
@@ -27,11 +27,11 @@ describe('Networks', function() {
 
     networks.disableRegtest();
     networks.testnet.networkMagic.should.deep.equal(Buffer.from('cee2caff', 'hex'));
-    networks.testnet.port.should.equal(19999);
+    networks.testnet.port.should.equal(29999);
     networks.testnet.dnsSeeds.should.deep.equal([
-     'testnet-seed.darkcoin.io',
-     'testnet-seed.xazabdot.io',
-     'test.dnsseed.masternode.io'
+     'testnet-seed.xazab.xyz',
+     'testnet-seed2.xazab.xyz',
+     'test.dnsseed3.xazab.xyz'
     ]);
   });
 

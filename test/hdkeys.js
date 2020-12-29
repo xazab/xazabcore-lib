@@ -17,7 +17,7 @@ var _ = require('lodash');
 var should = require('chai').should();
 var expect = require('chai').expect;
 var sinon = require('sinon');
-var bitcore = require('..');
+var bitcore = require('../index.js');
 var Networks = bitcore.Networks;
 var HDPrivateKey = bitcore.HDPrivateKey;
 var HDPublicKey = bitcore.HDPublicKey;
@@ -274,7 +274,7 @@ describe('BIP32 compliance', function() {
   });
 
   describe('edge cases', function() {
-    var sandbox = sinon.sandbox.create();
+    var sandbox = sinon.createSandbox();
     afterEach(function() {
       sandbox.restore();
     });

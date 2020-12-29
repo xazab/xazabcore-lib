@@ -28,7 +28,7 @@ describe('InstantLock', function () {
   let instantLockJSONFromTestNet;
 
   beforeEach(() => {
-    // DashJ test vector : https://github.com/dashevo/dashj/blob/master/core/src/test/java/org/bitcoinj/quorums/InstantSendLockTest.java
+    // XazabJ test vector : https://github.com/xazab/xazabj/blob/master/core/src/test/java/org/bitcoinj/quorums/InstantSendLockTest.java
     str = '011dbbda5861b12d7523f20aa5e0d42f52de3dcd2d5c2fe919ba67b59f050d206e00000000babb35d229d6bf5897a9fc3770755868d9730e022dc04c8a7a7e9df9f1caccbe8967c46529a967b3822e1ba8a173066296d02593f0f59b3a78a30a7eef9c8a120847729e62e4a32954339286b79fe7590221331cd28d576887a263f45b595d499272f656c3f5176987c976239cac16f972d796ad82931d532102a4f95eec7d80';
     object = {
       inputs:[

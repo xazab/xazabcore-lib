@@ -8,7 +8,7 @@ var expect = require('chai').expect;
 var _ = require('lodash');
 var sinon = require('sinon');
 
-var bitcore = require('../..');
+var bitcore = require('../../index.js');
 var GovObject = bitcore.GovObject;
 var Proposal = bitcore.GovObject.Proposal;
 var errors = bitcore.errors;
@@ -32,7 +32,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
 
       govObject = govObject.fromObject(jsonProposal);
@@ -68,7 +68,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
 
       var govObject = govObject.fromObject(JSON.stringify(jsonProposal));
@@ -87,7 +87,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
       var govObject = govObject.fromObject(jsonProposal);
       var newGovObject = new GovObject(govObject);
@@ -115,7 +115,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
       var govObject = govObject.fromObject(jsonProposal);
 
@@ -141,7 +141,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
       var govObject = govObject.fromObject(jsonProposal);
       var govObject2 = new GovObject;
@@ -163,7 +163,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
       var govObject = govObject.fromObject(jsonProposal);
       var govFromHexa = new GovObject;
@@ -184,7 +184,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
       var stringified = JSON.stringify(jsonProposal);
       stringified+="foobar";
@@ -205,7 +205,7 @@ describe('GovObject', function(){
         end_epoch:Math.round(new Date("2025-10-10").getTime()/1000),
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
 
        var govObjRes = function(){
@@ -225,7 +225,7 @@ describe('GovObject', function(){
         end_epoch:Math.round(new Date("2025-10-10").getTime()/1000),
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
 
        var govObjRes = function(){
@@ -245,7 +245,7 @@ describe('GovObject', function(){
         end_epoch:Math.round(new Date("2025-10-10").getTime()/1000),
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
        var govObjRes = function(){
          return govObject.fromObject(jsonProposal);
@@ -276,7 +276,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
       var govObject = govObject.fromObject(jsonProposal);
       govObject.serialize().should.equal(expectedHex);
@@ -292,7 +292,7 @@ describe('GovObject', function(){
         payment_address:'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
         payment_amount:10,
         type:1,
-        url:"http://www.xazab.org"
+        url:"http://xazab.xyz"
       };
       var govObject = govObject.fromObject(jsonProposal);
       govObject.inspect().should.equal("<GovObject: "+expectedHex+">");
