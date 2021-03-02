@@ -160,8 +160,49 @@ describe('SimplifiedMNList', function () {
     });
     it('Should verify quorum', function () {
       var MNList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
-      var result = MNList.verifyQuorums();
-      expect(result).to.be.true;
+      var quorums = MNList.getQuorums();
+      expect(quorums.length).to.be.equal(25);
+    });
+    it('Should only get all unverified quorums', function () {
+      var MNList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
+      var quorums = MNList.getUnverifiedQuorums();
+      expect(quorums.length).to.be.equal(25);
+      MNList.applyDiff(SMNListFixture.getSecondDiff());
+      MNList.applyDiff(SMNListFixture.getThirdDiff());
+      var quorumToVerify = MNList.getQuorum(constants.LLMQ_TYPES.LLMQ_TYPE_50_60, '0000000000c1c305a88441ce9a27a51fbad94555e50aaf6b61f84866bf56b160');
+      // now get the quorum diff to verify it with its corresponding mnList
+      var quorumMNList = new SimplifiedMNList(SMNListFixture.getFirstTwoDiffsCombined());
+      quorumMNList.applyDiff(SMNListFixture.getQuorumHashDiff());
+      return quorumToVerify.verify(quorumMNList)
+        .then((res) => {
+          expect(res).to.be.true;
+          quorums = MNList.getUnverifiedQuorums();
+          expect(quorums.length).to.be.equal(24);
+        });
+
+    });
+    it('Should only get all verified quorums', function () {
+      var MNList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
+      var quorums = MNList.getVerifiedQuorums();
+      expect(quorums.length).to.be.equal(0);
+      MNList.applyDiff(SMNListFixture.getSecondDiff());
+      MNList.applyDiff(SMNListFixture.getThirdDiff());
+      var quorumToVerify = MNList.getQuorum(constants.LLMQ_TYPES.LLMQ_TYPE_50_60, '0000000000c1c305a88441ce9a27a51fbad94555e50aaf6b61f84866bf56b160');
+      // now get the quorum diff to verify it with its corresponding mnList
+      var quorumMNList = new SimplifiedMNList(SMNListFixture.getFirstTwoDiffsCombined());
+      quorumMNList.applyDiff(SMNListFixture.getQuorumHashDiff());
+      return quorumToVerify.verify(quorumMNList)
+        .then((res) =>{
+          expect(res).to.be.true;
+          quorums = MNList.getVerifiedQuorums();
+          expect(quorums.length).to.be.equal(1);
+        });
+    });
+    it("Should throw an error if we are adding more quorums than maximumActiveQuorumsCount for a particular llmqType permits", function () {
+      var mnList = new SimplifiedMNList(SMNListFixture.getFirstDiff());
+      expect(function () {
+        mnList.applyDiff(SMNListFixture.getDiffThatAddsMoreThanDeletes());
+      }).to.throw('Trying to add more quorums to quorum type 2 than its maximumActiveQuorumsCount of 4 permits');
     });
   });
 });
